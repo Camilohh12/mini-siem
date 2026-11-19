@@ -95,7 +95,7 @@ El script `scripts/simular_ataques.py` lanza cada ataque contra el login y la ba
 **Requisitos:** Docker Desktop (o Docker Engine con Compose v2), unos 3 GB de RAM libres, Python 3 para el simulador y un bot de Telegram creado con [@BotFather](https://t.me/BotFather).
 
 ```bash
-git clone https://github.com/<tu-usuario>/mini-siem.git
+git clone https://github.com/camilohh12/mini-siem.git
 cd mini-siem
 cp .env.example .env          # en Windows: copy .env.example .env
 ```
